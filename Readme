@@ -2,7 +2,8 @@ Here is the place for the supplementary information for the manuscript submitted
 I could not find any reviewers. If you think you can help me in giving a good advice, please volunteer as a potential reviewer to the F1000 editorial 
 board.
 Here are three examples of scripts for detection of differentially expressing genes. I use one data file as an example. The file can be downloaded 
-from the NCBI GEO https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi . Note that the data in GSE59114_C57BL6_GEO_all.xlsx file are already log-transformed.
+from the NCBI GEO https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi . For simplicity of the input I removed the first row and the second column, then 
+saved as .csv. Note that the data in GSE59114_C57BL6_GEO_all.xlsx file are already log-transformed.
 Do not consider those scripts as the best and final protocol for all possible cases. To the contrary, this is just an illustration 
 to the discussed subject what is currently possible in this field using python programming language.
 If you have some creative thoughts or productive suggestions you can contact me via e-mail: l.bystrykh@umcg.nl or l.bystrykh@rug.nl
